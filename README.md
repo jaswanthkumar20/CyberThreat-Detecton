@@ -22,25 +22,4 @@ The increasing sophistication of cyberattacks has highlighted the need for **aut
 🔹 LSTM for sequential pattern recognition  
 🔹 Feature engineering for security event profiling  
 
----
 
-### 📌 **How to Use**  
-1️⃣ **Clone the Repository**  
-```bash
-git clone https://github.com/yourusername/cyber-threat-detection.git
-cd cyber-threat-detection
-```
-2️⃣ **Install Dependencies**  
-```bash
-pip install -r requirements.txt
-```
-3️⃣ **Run the Model**  
-```bash
-python train_model.py
-```
-
----
-
-This project demonstrates the **effectiveness of LSTM** in building **scalable and automated network intrusion detection systems**, providing **actionable insights** for security analysts. 🚀  
-
-Let me know if you want any modifications! 🔥
